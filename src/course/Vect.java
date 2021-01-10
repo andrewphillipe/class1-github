@@ -30,7 +30,7 @@ public class Vect {
 		System.out.printf("A média das alturas é: %.2f%n", sum); 
 		
 		
-		
+		System.out.println("one more commit");
 		
 		
 		sc.close(); // fecha o scanner
