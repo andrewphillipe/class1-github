@@ -9,7 +9,7 @@ public class Vect {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite um valor: "); //define tamanho vetor
+		System.out.println("Digite um valor: "); //define tamanho do vetor
 		int n = sc.nextInt();
 		
 		Double[] vect = new Double[n];
@@ -33,7 +33,7 @@ public class Vect {
 		
 		
 		
-		sc.close();
+		sc.close(); // fecha o scanner
 			
 		
 		
